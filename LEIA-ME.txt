@@ -1,0 +1,45 @@
+SAFEJY — Landing page
+
+COMO ABRIR
+Abra index.html no Chrome, Edge, Safari ou Firefox.
+Mantenha todos os arquivos da pasta juntos, incluindo as três fotos das notícias.
+A versão SAFEJY.html reúne tudo em um único arquivo.
+Não é necessário instalar nada. A página funciona offline.
+As fotos das notícias estão incorporadas à versão SAFEJY.html e funcionam offline.
+Os links para ler as matérias originais exigem conexão com a internet.
+
+COMO USAR
+PT / EN alterna o idioma de toda a página.
+O botão de lua/sol alterna os temas claro e escuro. O claro é o padrão.
+A última escolha de tema é lembrada quando o navegador permite.
+“Notícias e fontes” leva à seção “Por que existimos”.
+“Ver análise da rota” leva ao exemplo ilustrativo no mapa.
+
+ESCOPO
+O mapa mostra uma única rota fictícia sinalizada como “Rota com risco”.
+A proposta é indicar a segurança do trajeto. Não há troca de rota.
+O exemplo não consulta GPS nem dados reais e não serve para navegação.
+O app, as fontes de dados e os critérios de avaliação ainda serão desenvolvidos.
+
+FONTES — consultadas em 05/11/2026
+CNN Brasil — 24/07/2025 — Roubos e furtos de celulares na capital em 2024:
+https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-tem-185-de-todos-os-roubos-e-furtos-de-celulares-do-brasil/
+FECAP — 09/02/2026 — Estudo sobre ocorrências em 2025:
+https://www.fecap.br/2026/02/09/roubos-e-furtos-de-celulares-caem-905-em-sp-em-2025-veja-cidades-bairros-e-locais-com-mais-ocorrencias/
+Secretaria da Segurança Pública de São Paulo — 01/06/2026 — Roubos de celulares no primeiro quadrimestre:
+https://www.ssp.sp.gov.br/noticia/60440
+
+EDIÇÃO
+index.html: conteúdo em português e estrutura.
+styles.css: temas, identidade visual e layout responsivo.
+script.js: tradução em inglês, tema e navegação interna.
+logo-safejy.png: logo fornecida pela equipe com fundo transparente.
+
+IMAGENS DAS NOTÍCIAS
+As fotos vêm das respectivas publicações. Os créditos estão abaixo das imagens.
+CNN Brasil — Divulgação/SSP:
+https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/00059166-e1750683119399.jpg?w=827&h=414&crop=1
+FECAP — Imagem ilustrativa de Freepik:
+https://www.fecap.br/wp-content/uploads/2026/02/Roubos-e-furtos-de-celulares-caem-905-em-SP-em-2025-600x400.jpg
+SSP-SP:
+https://www.ssp.sp.gov.br/assets/noticias/midia/Imagem/00061402.jpg
