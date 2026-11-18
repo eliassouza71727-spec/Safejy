@@ -1,35 +1,33 @@
-# SAFEJY
+# Safejy
 
-Protótipo de uma página de apresentação do projeto SAFEJY.
+Página de apresentação do Safejy — versão 3, com logo azul e vermelho,
+alternância PT/EN, layout responsivo, mapa demonstrativo, notícias e animações.
 
-## Abrir o projeto
+## Abrir e publicar
 
-Abra `index.html` no navegador. Não é necessário instalar dependências.
-Mantenha os arquivos do projeto juntos para preservar as imagens, os estilos e as funcionalidades.
+Abra `index.html` no navegador. Não é necessário instalar dependências ou compilar.
+Para GitHub Pages, mantenha `index.html` na pasta configurada para publicação.
 
-O arquivo `SAFEJY.html` é uma versão independente que reúne a página em um único arquivo.
+O logo, os estilos, o JavaScript e o mapa SVG estão incorporados ao HTML.
+Google Fonts e os links das notícias usam conexão com a internet; fontes
+alternativas são usadas quando Google Fonts não está disponível.
+
+`SAFEJY.html` é uma cópia idêntica da página para download ou abertura avulsa.
 
 ## Onde editar
 
-- `index.html`: estrutura e conteúdo em português.
-- `styles.css`: cores, temas e layout.
-- `script.js`: tradução em inglês, troca de tema e navegação interna.
-- Imagens na pasta do projeto: logos e fotos usadas pela página.
-- `LEIA-ME.txt`: detalhes do protótipo e créditos das imagens.
-
-Para o trabalho em equipe, editem `index.html`, `styles.css` e `script.js`.
-O arquivo independente `SAFEJY.html` não é atualizado automaticamente quando esses arquivos mudam.
+Edite `index.html` e atualize a cópia `SAFEJY.html` com o mesmo conteúdo.
+Os arquivos de estilos, scripts e imagens da versão anterior foram preservados,
+mas não são utilizados por esta versão da página.
 
 ## Colaboração
 
-1. Crie uma branch para a alteração que pretende fazer.
-2. Edite os arquivos e abra `index.html` para conferir o resultado.
-3. Verifique o layout em tamanhos de tela diferentes, os temas claro/escuro, a troca PT/EN e os links.
-4. Envie um pull request explicando a alteração para que outro integrante possa revisá-la.
-
-O responsável pelo repositório deve conceder acesso de escrita aos integrantes que vão contribuir.
+1. Crie uma branch para a alteração.
+2. Confira o layout no celular e no computador, PT/EN, mapa e filtros de notícias.
+3. Envie um pull request explicando a alteração para revisão.
 
 ## Escopo do protótipo
 
-O mapa usa uma rota fictícia e ilustrativa. Não consulta GPS ou dados reais e não serve para navegação.
-Consulte `LEIA-ME.txt` para informações sobre as fontes e o funcionamento.
+O mapa e seus marcadores são fictícios e ilustrativos. Não consultam GPS nem
+ocorrências reais e não servem para navegação. As notícias são uma seleção
+editorial estática; não há atualização automática.
